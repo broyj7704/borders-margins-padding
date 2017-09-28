@@ -1,9 +1,18 @@
 body {
-    background-color: #ffa;
+  background-color: #adc9f4;
+  max-width:590px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 h1 {
     color: #880000;
+    border: 10px solid #7200ff;
+    border-radius: 20px 0 20px 0;
+    padding:18px;
+    Margin-left:18px;
+    Margin-right:18px;
+    text-align:center;
 }
 
 h2 {
@@ -11,5 +20,7 @@ h2 {
 }
 
 p {
-
+   border-left: 10px dotted #7200ff;
+   border-right: 10px dotted #7200ff;
+   padding-left: 10px;
 }
